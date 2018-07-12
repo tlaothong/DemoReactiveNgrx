@@ -1,0 +1,8 @@
+{
+  "name": "DemoReactiveNgrx",
+  "app_id": "19f33b7e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
